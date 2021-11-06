@@ -1,0 +1,23 @@
+dex_import {
+    name: "qcrilhook",
+    owner: "google",
+    jars: ["qcrilhook.jar"],
+}
+
+dex_import {
+    name: "QtiTelephonyServicelibrary",
+    owner: "google",
+    jars: ["QtiTelephonyServicelibrary.jar"],
+}
+
+dex_import {
+    name: "uimremoteclientlibrary",
+    owner: "google",
+    jars: ["uimremoteclientlibrary.jar"],
+}
+
+dex_import {
+    name: "uimremoteserverlibrary",
+    owner: "google",
+    jars: ["uimremoteserverlibrary.jar"],
+}

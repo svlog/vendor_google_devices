@@ -1,0 +1,6 @@
+runtime_resource_overlay {
+    name: "PixelConfigOverlay2018",
+    resource_dirs: ["res"],
+    product_specific: true,
+    aaptflags: ["--keep-raw-values"],
+}

@@ -1,0 +1,13 @@
+dex_import {
+    name: "com.google.android.dialer.support",
+    owner: "google",
+    jars: ["com.google.android.dialer.support.jar"],
+    product_specific: true,
+}
+
+dex_import {
+    name: "libhwinfo",
+    owner: "google",
+    jars: ["libhwinfo.jar"],
+    product_specific: true,
+}
