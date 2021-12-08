@@ -690,6 +690,7 @@ PRODUCT_COPY_FILES += \
     vendor/google_devices/sargo/vendor/etc/thermal-engine-sargo.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sargo.conf:google \
     vendor/google_devices/sargo/vendor/etc/thermal_info_config.json:$(TARGET_COPY_OUT_VENDOR)/etc/thermal_info_config.json:google \
     vendor/google_devices/sargo/vendor/etc/usb_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/usb_audio_policy_configuration.xml:google \
+    vendor/google_devices/sargo/vendor/etc/vintf/manifest/android.hardware.confirmationui@1.0-service-google.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/android.hardware.confirmationui@1.0-service-google.xml:google \
     vendor/google_devices/sargo/vendor/etc/vintf/manifest/android.hardware.identity.strongbox.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/android.hardware.identity.strongbox.xml:google \
     vendor/google_devices/sargo/vendor/etc/vintf/manifest/android.hardware.keymaster@4.1-service.citadel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/android.hardware.keymaster@4.1-service.citadel.xml:google \
     vendor/google_devices/sargo/vendor/etc/vintf/manifest/android.hardware.weaver@1.0-service.citadel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/android.hardware.weaver@1.0-service.citadel.xml:google \
