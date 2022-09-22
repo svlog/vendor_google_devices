@@ -1,2 +1,0 @@
-com.android.systemui:bool/global_actions_show_change_info = true
-android:dimen/quick_qs_offset_height = 28.000000dp

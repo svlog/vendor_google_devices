@@ -1,6 +1,0 @@
-# BIP Channel Manager
-    service BIP-Channel-Manager /vendor/bin/bipchmgr
-    class main
-    user system
-    group radio inet
-    capabilities NET_ADMIN NET_RAW
